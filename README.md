@@ -1,8 +1,8 @@
 # bearer-auth
 
-## pull link:
+## pull link:https://github.com/Hamzamt99/bearer-auth/pull/1
 
-## action link:
+## action link:https://github.com/Hamzamt99/bearer-auth/actions
 
 ## uml diagram:
 ![uml](./src/assets/uml.jpg)
